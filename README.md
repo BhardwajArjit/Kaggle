@@ -33,7 +33,7 @@ Each notebook is self-contained and includes comments and explanations to make i
 To get started with this repository, you can simply clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/BhardwajArjit/kaggle.git
+git clone https://github.com/BhardwajArjit/Kaggle.git
 ```
 
 Make sure you have Python, R and Jupyter Notebook installed on your machine to run the notebooks locally. You can also view the notebooks directly on GitHub.
