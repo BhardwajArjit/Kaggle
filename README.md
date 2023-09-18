@@ -1,6 +1,6 @@
 # Kaggle Notebooks Repository
 
-![Kaggle Logo](https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle Logo" width="100" height="100">
 
 Welcome to my Kaggle Notebooks Repository! This repository is a collection of Jupyter notebooks and RMarkdown showcasing my data analysis, machine learning, and data science projects on Kaggle. Each notebook represents a specific Kaggle competition or a personal data analysis project.
 
