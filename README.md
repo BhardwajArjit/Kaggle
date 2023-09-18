@@ -1,7 +1,5 @@
 # Kaggle Notebooks Repository
 
-![Kaggle Logo](https://storage.googleapis.com/kaggle-organizations/355/thumbnail.png)
-
 Welcome to my Kaggle Notebooks Repository! This repository is a collection of Jupyter notebooks and RMarkdown showcasing my data analysis, machine learning, and data science projects on Kaggle. Each notebook represents a specific Kaggle competition or a personal data analysis project.
 
 ## Table of Contents
